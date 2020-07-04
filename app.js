@@ -185,7 +185,7 @@ function transition() {
   }
 }
 
-///////////My Code///////////////////////////////////
+///////////Initial idea///////////////////////////////////
 
 // let screen = document.getElementById("screen");
 
